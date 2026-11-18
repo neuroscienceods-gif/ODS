@@ -185,15 +185,13 @@ NeuroPrevent-AI/
 
 ## 👨‍💻 7. Equipe NeuroScience
 
-A divisão de responsabilidades proposta busca integrar análise de dados, desenvolvimento, design e qualidade de software.
-
-| Integrante | Responsabilidade | Principais atribuições |
-|---|---|---|
-| **Integrante 1** | Liderança e Data Scientist | Análise das bases públicas, modelos de aprendizado de máquina e documentação. |
-| **Integrante 2** | Engenheiro Backend | API com FastAPI, banco PostgreSQL e integração com PostGIS. |
-| **Integrante 3** | Designer UI/UX e Frontend | Identidade visual, protótipos e componentes da aplicação. |
-| **Integrante 4** | Engenheiro DevOps e QA | GitHub Actions, Docker e testes de software. |
-
+Integrante	Responsabilidade	Principais atribuições
+Mateus Santos	Líder do Projeto	Coordenação da equipe, planejamento estratégico, organização das atividades e acompanhamento do desenvolvimento.
+Lucas Brito	Cientista de Dados e Machine Learning	Análise das bases públicas, tratamento de dados epidemiológicos e desenvolvimento de modelos de aprendizado de máquina.
+Matheus Fernandes	Desenvolvedor Backend	Desenvolvimento da API com FastAPI, implementação das regras de negócio e integração com o banco PostgreSQL.
+Rafael Tadano	Desenvolvedor Frontend e UI/UX	Criação das interfaces, prototipação das telas, identidade visual e desenvolvimento da experiência do usuário.
+Nathan	Engenheiro DevOps e Infraestrutura	Configuração do ambiente de desenvolvimento, Docker, pipelines CI/CD e gerenciamento da infraestrutura.
+Mailon José	Analista de QA e Documentação	Realização de testes, validação das funcionalidades, identificação de erros e elaboração da documentação técnica.
 ---
 
 ## 🚀 8. Pitch do projeto
